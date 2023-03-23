@@ -5,7 +5,7 @@
 ### <div align="center">Hello! 👋 I'm Chrissy, a front-end developer 👨‍💻 and artist 🎨 which means I bring curiosity, exploration, critical thinking, and wonder into every project I take part in. </div>  
   
 
-- 🔭 I’m currently working on [Overlook](https://github.com/chrissycooper/overlook)  
+- 🔭 I’m currently working on [Rancid Tomatillos](https://github.com/BriBourassa/Rancid-Tomatillos)  
   
 
 - 🌱 I’m currently learning React and Cypress  
