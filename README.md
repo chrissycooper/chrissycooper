@@ -3,7 +3,6 @@
   
 
 ### <div align="center">Hello! 👋 I'm Chrissy, a front-end developer 👨‍💻 and artist 🎨 which means I bring curiosity, exploration, critical thinking, and wonder into every project I take part in. </div>  
-- ❓ Ask me about how programming is just like making art   
   
 <br/>  
 
